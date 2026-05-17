@@ -1,5 +1,5 @@
 Zadanie: Grupowy artykuł na temat AI
-Cel zadania: Przećwiczenie pełnego cyklu pracy grupowej w GitHub: od forkowania repozytorium, przez pracę na gałęziach (branching), po recenzję kodu (code review) i rozwiązywanie konfliktów
+Cel zadania: Przećwiczenie pełnego cyklu pracy grupowej w GitHub: od forkowania repozytorium, przez pracę na gałęziach (branching), po recenzję i rozwiązywanie konfliktów
 .
 --------------------------------------------------------------------------------
 I. Tematyka artykułu (do wyboru przez sekcje w grupie)
@@ -45,7 +45,9 @@ Conflict Resolution: Jeśli dwóch studentów edytowało te same fragmenty (np. 
 
 5. Przesyłanie zadań
 
-Repozytorium należy spakować i przesłać na moodle.
+Należy dodać konto prowarzącego do repozytorium, nazwa konta "MichalSopniewskiMerito"
+Repozytorium należy spakować zip i przesłać na moodle.
+
 
 --------------------------------------------------------------------------------
 III. Kryteria oceny
